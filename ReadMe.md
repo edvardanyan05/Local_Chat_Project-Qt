@@ -80,8 +80,7 @@ A presentation explaining the project design and functionality is included in th
 
 ## Author
 
-Edmond Vardanyan
-Student at Synopsys Education Department
+Edmond Vardanyan - Student at Synopsys Education Department
 
 ## License
 
